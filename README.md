@@ -1,1 +1,4 @@
 # Data-cleaning-and-plotting-scripts
+这个脚本是用来清洗cadence仿真导出的2T0C阵列的PVT仿真数据的
+clean_data.py是用来去除原始数据里的噪声和异常值
+data_plot.py是用来自动生成Shmoo Plot或者Trend Analysis趋势图的
